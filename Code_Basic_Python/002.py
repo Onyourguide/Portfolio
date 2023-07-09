@@ -1,5 +1,5 @@
 """Source code ' s docstring"""
-def funtionName ():
+def functionName ():
     """Function's docstring"""
     print("Output_1")
     print("Output_2")
@@ -22,4 +22,4 @@ def funtionName ():
     print("Output_19")
     print("Output_20")
     
-funtionName()
+functionName()

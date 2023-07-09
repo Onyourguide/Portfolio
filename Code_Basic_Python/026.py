@@ -1,5 +1,5 @@
 """Source code ' s docstring"""
-def funtionName ():
+def functionName ():
     """FunctionName's docstring"""
 
 a = int(input("Enter your score = "))
@@ -24,4 +24,4 @@ elif 60 >= a >= 0:
 else :
  print("ERROR")
 
-funtionName()
+functionName()

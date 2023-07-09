@@ -1,5 +1,5 @@
 """Source code ' s docstring"""
-def funtionName ():
+def functionName ():
     """FunctionName's docstring"""
     variable_1 = input()
     variable_2 = int(variable_1)
@@ -14,4 +14,4 @@ def funtionName ():
     print(variable_2*32)
     print(variable_2*variable_2*5+(5*10)*(variable_2)+3)
 
-funtionName()
+functionName()

@@ -1,5 +1,5 @@
 """Source code ' s docstring"""
-def funtionName (point):
+def functionName (point):
     """FunctionName's docstring"""
 
 point=float(input())
@@ -10,4 +10,4 @@ if  point > 180  :
 else :
     print("Nothing happens.")
 
-funtionName(point)
+functionName(point)

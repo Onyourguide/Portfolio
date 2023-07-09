@@ -1,5 +1,5 @@
 """Source code ' s docstring"""
-def funtionName ():
+def functionName ():
     """Function's docstring"""
     print(1+2+3+4+5+6+7+8+9+10)
     print(10-9-8-7-6-5-4-3-2-1)
@@ -12,4 +12,4 @@ def funtionName ():
     print(((7-1)/(2+4))*(10/51))
     print(((4000*50**4*87)+(4000*5))/((72-111)**2)+((10-314)**2))
 
-funtionName()
+functionName()

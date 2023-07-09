@@ -1,9 +1,9 @@
 """Source code ' s docstring"""
-def funtionName ():
+def functionName ():
     """Function's docstring"""
     print("Output")
 
-funtionName()
+functionName()
 #1 อธิบายโปรแกรมทำอะไร (docstring)
 #2 def : Keyword คำสั่งสร้างฝังชั่น
 #2 funtionName : f(x) x = docstring
