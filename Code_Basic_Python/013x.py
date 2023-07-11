@@ -1,12 +1,7 @@
-integer_a = int(input())
-float_b = float(input())
-string_c = str(input())
+import math
 
 def regulation():
-    print(integer_a)
-    print(integer_a)
-    print(float_b)
-    print(float_b)
-    print(string_c)
+    print (math.sin(math.pi/3)) (math.sin(math.pi/6))
+
 
 regulation()
