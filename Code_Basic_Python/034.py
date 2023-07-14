@@ -1,4 +1,3 @@
-
 def stepper():
 
     i = 1
