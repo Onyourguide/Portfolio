@@ -1,4 +1,3 @@
-
 def print_for ():
 
     for count in range(100):
